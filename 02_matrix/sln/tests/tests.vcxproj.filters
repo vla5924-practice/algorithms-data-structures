@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\tests\TMatrix.cpp">
+      <Filter>tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tests\TVector.cpp">
+      <Filter>tests</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="tests">
+      <UniqueIdentifier>{53380ee8-b8e8-4099-96d0-6ae8733e9b93}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
