@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{76a39867-e027-4a28-b58b-212344a22575}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{3e25efe6-4b8a-4969-b7ca-aa1d424dc428}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\include\TTextNode.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\TText.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\TTextIter.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\TStack.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\TTextNode.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\TText.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\TTextIter.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

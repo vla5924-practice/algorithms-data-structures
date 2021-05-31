@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{f18384bb-b22f-4e64-ad69-70f9f7a55585}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\include\TTreeTable.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\TNode.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\TBinaryTree.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
